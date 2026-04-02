@@ -1,0 +1,9 @@
+ ## VirtualSoc 
+
+Sa se realizeze o aplicatie client/server ce va simula functionalitatea unei retele sociale. 
+Sistemul ofera urmatoarele: inregistrarea utilizatorilor (diferite tipuri de utilizatori: obisnuiti, administratori). 
+Utilizatorii isi pot seta profilul si postruile ca fiind publice sau private. Utilizatorii pot vizualiza postarile publice 
+ale celorlalti utilizatori fara sa fie autentificati.Toate celelalte comenzi vor fi restrictionate de autentificare. 
+Sistemul va suporta minim urmatoarele operatii: adaugarea unui prieten in lista de prieteni(specificarea tipului de prieten: 
+apropiat, cunostiinta, etc.), postarea unei stiri (stirea va putea fi: trimisa unui grup special: prieteni apropiati, prieteni sau 
+poate fi publica). Sistemul permite un mecanism de comunicare privata intre 2 sau mai multe persoane. 
