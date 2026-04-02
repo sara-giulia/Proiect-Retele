@@ -1,0 +1,97 @@
+[2026-04-02 21:28:30] sara                 | LOGIN_ATTEMPT                  | sara
+[2026-04-02 21:28:30] sara                 | LOGIN_SUCCESS                  | Type: admin | Socket: 4
+[2026-04-02 21:28:31] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:32] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:33] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:34] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:35] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:36] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:37] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:38] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:39] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:40] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:41] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:42] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:43] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:44] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:45] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:46] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:47] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:48] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:49] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:50] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:51] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:52] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:53] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:54] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:28:54] sara                 | VIEW_MY_PROFILE_ATTEMPT        | 
+[2026-04-02 21:29:02] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:29:03] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:29:04] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:29:05] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 21:29:31] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 21:29:50] sara                 | POST_ATTEMPT                   | FRIENDS
+[2026-04-02 21:29:50] sara                 | POST_SUCCESS                   | FRIENDS
+[2026-04-02 21:29:50] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 21:30:10] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:30:11] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:30:12] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:30:13] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:30:14] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-04-02 21:30:20] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:30:21] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:30:22] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-04-02 21:31:34] sara                 | LOGIN_ATTEMPT                  | sara
+[2026-04-02 21:31:34] sara                 | LOGIN_SUCCESS                  | Type: admin | Socket: 4
+[2026-04-02 21:31:35] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:31:36] sara                 | VIEW_MY_PROFILE_ATTEMPT        | 
+[2026-04-02 21:31:51] sara                 | VIEW_MY_PROFILE_ATTEMPT        | 
+[2026-04-02 21:32:06] sara                 | VIEW_MY_PROFILE_ATTEMPT        | 
+[2026-04-02 21:32:21] sara                 | VIEW_MY_PROFILE_ATTEMPT        | 
+[2026-04-02 21:32:36] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:32:37] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:32:38] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:32:39] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 21:33:01] sara                 | POST_ATTEMPT                   | FRIENDS
+[2026-04-02 21:33:01] sara                 | POST_SUCCESS                   | FRIENDS
+[2026-04-02 21:33:01] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 21:55:05] sara                 | LOGIN_ATTEMPT                  | sara
+[2026-04-02 21:55:05] sara                 | LOGIN_SUCCESS                  | Type: admin | Socket: 4
+[2026-04-02 21:55:06] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:55:07] sara                 | VIEW_MY_PROFILE_ATTEMPT        | 
+[2026-04-02 21:55:11] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:55:12] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:55:13] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:55:14] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:55:15] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 21:55:33] sara                 | POST_ATTEMPT                   | FRIENDS
+[2026-04-02 21:55:33] sara                 | POST_SUCCESS                   | FRIENDS
+[2026-04-02 21:55:34] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 21:58:06] sara                 | LOGIN_ATTEMPT                  | sara
+[2026-04-02 21:58:06] sara                 | LOGIN_SUCCESS                  | Type: admin | Socket: 4
+[2026-04-02 21:58:07] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 21:58:08] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 22:00:46] sara                 | LOGIN_ATTEMPT                  | sara
+[2026-04-02 22:00:46] sara                 | LOGIN_SUCCESS                  | Type: admin | Socket: 4
+[2026-04-02 22:00:47] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 22:00:48] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 22:01:09] sara                 | POST_ATTEMPT                   | FRIENDS
+[2026-04-02 22:01:09] sara                 | POST_SUCCESS                   | FRIENDS
+[2026-04-02 22:01:10] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 22:04:17] sara                 | LOGIN_ATTEMPT                  | sara
+[2026-04-02 22:04:17] sara                 | LOGIN_FAILED                   | Wrong password
+[2026-04-02 22:04:22] sara                 | LOGIN_ATTEMPT                  | sara
+[2026-04-02 22:04:22] sara                 | LOGIN_SUCCESS                  | Type: admin | Socket: 4
+[2026-04-02 22:04:23] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 22:04:24] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 22:04:24] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 22:04:42] sara                 | POST_ATTEMPT                   | FRIENDS
+[2026-04-02 22:04:42] sara                 | POST_SUCCESS                   | FRIENDS
+[2026-04-02 22:04:43] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 22:34:11] sara                 | LOGIN_ATTEMPT                  | sara
+[2026-04-02 22:34:11] sara                 | LOGIN_SUCCESS                  | Type: admin | Socket: 4
+[2026-04-02 22:34:12] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-04-02 22:34:13] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-04-02 22:34:38] sara                 | POST_ATTEMPT                   | FRIENDS
+[2026-04-02 22:34:38] sara                 | POST_SUCCESS                   | FRIENDS
+[2026-04-02 22:34:39] sara                 | VIEW_POSTS_ATTEMPT             | MY_POSTS

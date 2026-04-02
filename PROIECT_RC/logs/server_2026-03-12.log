@@ -1,0 +1,33 @@
+[2026-03-12 07:35:34] sara                 | LOGIN_ATTEMPT                  | sara
+[2026-03-12 07:35:34] sara                 | LOGIN_SUCCESS                  | Type: admin | Socket: 4
+[2026-03-12 07:35:35] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:35:36] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:35:36] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-12 07:35:45] sara                 | DELETE_USER_ATTEMPT            | ana
+[2026-03-12 07:35:45] sara                 | DELETE_USER_SUCCESS            | ana
+[2026-03-12 07:35:47] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-12 07:35:55] sara                 | DELETE_USER_ATTEMPT            | laura
+[2026-03-12 07:35:55] sara                 | DELETE_USER_SUCCESS            | laura
+[2026-03-12 07:35:56] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-12 07:35:57] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-12 07:36:01] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:02] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:03] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:04] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:05] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:06] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:07] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:07] sara                 | SET_PROFILE_ATTEMPT            | PUBLIC
+[2026-03-12 07:36:07] sara                 | SET_PROFILE_SUCCESS            | PUBLIC
+[2026-03-12 07:36:08] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:09] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:10] sara                 | SET_PROFILE_ATTEMPT            | PRIVATE
+[2026-03-12 07:36:10] sara                 | SET_PROFILE_SUCCESS            | PRIVATE
+[2026-03-12 07:36:10] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:11] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:12] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:13] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:14] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-12 07:36:14] sara                 | VIEW_MY_PROFILE_ATTEMPT        | 
+[2026-03-12 07:36:16] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-12 07:36:20] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 

@@ -1,0 +1,243 @@
+[2026-03-21 21:41:30] sara                 | LOGIN_ATTEMPT                  | sara
+[2026-03-21 21:41:30] sara                 | LOGIN_SUCCESS                  | Type: admin | Socket: 4
+[2026-03-21 21:41:31] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:32] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:33] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:34] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:35] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:36] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:37] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:38] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:39] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:40] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:41] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:41] mihai                | LOGIN_ATTEMPT                  | mihai
+[2026-03-21 21:41:41] mihai                | LOGIN_FAILED                   | User not found
+[2026-03-21 21:41:42] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:43] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:44] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:44] mihai                | REGISTER_ATTEMPT               | mihai
+[2026-03-21 21:41:44] mihai                | REGISTER_SUCCESS               | Type: USER
+[2026-03-21 21:41:45] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:46] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:47] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:48] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:48] mihai                | LOGIN_ATTEMPT                  | mihai
+[2026-03-21 21:41:48] mihai                | LOGIN_SUCCESS                  | Type: user | Socket: 5
+[2026-03-21 21:41:49] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:49] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:50] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:50] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:51] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:51] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:52] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:52] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:53] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:53] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:54] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:54] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:55] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:55] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:56] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:56] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:57] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:57] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:57] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:41:58] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:41:59] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:00] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:01] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:02] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:03] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:04] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:05] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:06] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:07] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:08] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:09] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:10] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:11] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:11] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:12] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:12] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:13] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:13] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:14] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:15] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:15] mihai                | SET_PROFILE_ATTEMPT            | PRIVATE
+[2026-03-21 21:42:15] mihai                | SET_PROFILE_SUCCESS            | PRIVATE
+[2026-03-21 21:42:15] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:16] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:16] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:17] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:17] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:42:17] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:18] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:18] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:19] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:19] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:20] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:20] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:21] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:21] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:22] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:22] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:42:22] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:23] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:24] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:25] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:26] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:27] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:28] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:29] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:30] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:31] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:32] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:33] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:34] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:35] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:36] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:42:36] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:37] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:42:37] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:38] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:39] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:40] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:41] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:42] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:43] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:44] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:45] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:46] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:47] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:48] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:49] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:50] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:50] mihai                | SET_PROFILE_ATTEMPT            | PUBLIC
+[2026-03-21 21:42:50] mihai                | SET_PROFILE_SUCCESS            | PUBLIC
+[2026-03-21 21:42:51] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:42:51] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:52] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:53] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:54] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:55] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:56] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:57] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:57] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:42:58] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:42:59] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:00] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:01] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:02] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:03] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:04] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:05] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:06] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:43:06] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:07] sara                 | ADD_FRIEND_ATTEMPT             | mihai
+[2026-03-21 21:43:07] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:07] mihai                | GET_UNREAD_COUNT_FAILED        | Database error
+[2026-03-21 21:43:07] sara                 | ADD_FRIEND_SUCCESS             | mihai
+[2026-03-21 21:43:08] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:09] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:09] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:43:10] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:11] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:12] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:13] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:14] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:15] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:16] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:17] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:43:17] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:18] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:19] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:20] mihai                | VIEW_MY_PROFILE_ATTEMPT        | 
+[2026-03-21 21:43:21] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:43:28] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:29] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:30] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:31] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:32] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:33] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:43:33] mihai                | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-03-21 21:43:36] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:43:37] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:43:51] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:43:57] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:44:06] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:44:17] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:44:21] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:44:33] SYSTEM               | POST_FAILED                    | Invalid visibility
+[2026-03-21 21:44:34] mihai                | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-03-21 21:44:36] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:44:37] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:44:51] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:44:57] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:45:06] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:45:17] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:45:21] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:45:36] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:45:37] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:45:51] mihai                | POST_ATTEMPT                   | FRIENDS
+[2026-03-21 21:45:51] mihai                | POST_SUCCESS                   | FRIENDS
+[2026-03-21 21:45:51] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:45:51] mihai                | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-03-21 21:45:57] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:46:06] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:46:17] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:46:21] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:46:23] mihai                | POST_ATTEMPT                   | CLOSE_FRIENDS
+[2026-03-21 21:46:23] mihai                | POST_SUCCESS                   | CLOSE_FRIENDS
+[2026-03-21 21:46:23] mihai                | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-03-21 21:46:36] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:46:37] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:46:51] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:46:57] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:47:06] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:47:17] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:47:21] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:47:27] mihai                | POST_ATTEMPT                   | FRIENDS
+[2026-03-21 21:47:27] mihai                | POST_SUCCESS                   | FRIENDS
+[2026-03-21 21:47:27] mihai                | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-03-21 21:47:36] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:47:37] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:47:51] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:47:57] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:48:00] mihai                | POST_ATTEMPT                   | FRIENDS
+[2026-03-21 21:48:01] mihai                | POST_SUCCESS                   | FRIENDS
+[2026-03-21 21:48:01] mihai                | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-03-21 21:48:06] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:48:17] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:48:21] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:48:36] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:48:37] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:48:51] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:48:57] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:49:01] mihai                | POST_ATTEMPT                   | CLOSE_FRIENDS
+[2026-03-21 21:49:01] mihai                | POST_SUCCESS                   | CLOSE_FRIENDS
+[2026-03-21 21:49:02] mihai                | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-03-21 21:49:06] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:49:17] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:49:21] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:49:36] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:49:37] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:49:51] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:49:55] mihai                | POST_ATTEMPT                   | CLOSE_FRIENDS
+[2026-03-21 21:49:55] mihai                | POST_SUCCESS                   | CLOSE_FRIENDS
+[2026-03-21 21:49:55] mihai                | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-03-21 21:49:57] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:50:06] sara                 | VIEW_USER_FEED_ATTEMPT         | mihai
+[2026-03-21 21:52:25] sara                 | LOGIN_ATTEMPT                  | sara
+[2026-03-21 21:52:25] sara                 | LOGIN_SUCCESS                  | Type: admin | Socket: 4
+[2026-03-21 21:52:26] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:52:27] sara                 | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:52:27] sara                 | VIEW_ALL_USERS_ATTEMPT         | 
+[2026-03-21 21:58:09] mihai                | LOGIN_ATTEMPT                  | mihai
+[2026-03-21 21:58:09] mihai                | LOGIN_SUCCESS                  | Type: user | Socket: 4
+[2026-03-21 21:58:10] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:58:11] mihai                | GET_UNREAD_COUNT_ATTEMPT       | 
+[2026-03-21 21:58:11] mihai                | VIEW_POSTS_ATTEMPT             | MY_POSTS
+[2026-03-21 21:59:01] mihai                | POST_ATTEMPT                   | FRIENDS
+[2026-03-21 21:59:01] mihai                | POST_SUCCESS                   | FRIENDS
+[2026-03-21 21:59:02] mihai                | VIEW_POSTS_ATTEMPT             | MY_POSTS
