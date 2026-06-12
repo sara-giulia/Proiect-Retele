@@ -1,15 +1,21 @@
 QT += core gui widgets
 TARGET = client
 TEMPLATE = app
+
+DESTDIR = bin
+
 INCLUDEPATH += headers
+
 SOURCES += \
-    main.cpp \
-    mainwindow.cpp \
-    client.c
-HEADERS += mainwindow.h \
-           postswindow.h \
-           profilewindow.h \
-           adminwindow.h \
-           conversationswindow.h \
-           chatwindow.h
+    src/main.cpp \
+    src/mainwindow.cpp \
+    src/client.c
+
+HEADERS += headers/mainwindow.h \
+           headers/postswindow.h \
+           headers/profilewindow.h \
+           headers/adminwindow.h \
+           headers/conversationswindow.h \
+           headers/chatwindow.h
+
 LIBS += -lpthread
